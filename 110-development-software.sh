@@ -48,14 +48,10 @@ echo "Installation of the development packages"
 
 list=(
 firefox
-sublime-text-dev
-flameshot
-meld
-the_platinum_searcher-bin
-telegram-desktop
+brave
+visual-studio-code-bin
+pycharm-community-edition
 discord
-simplescreenrecorder
-scrot
 )
 
 count=0
